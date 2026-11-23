@@ -1,5 +1,4 @@
-# Marc
----
+# Greetings, I am Marc
 
 ## Who I am
 Student web designer and developer, passionate about art.
