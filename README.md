@@ -1,19 +1,12 @@
-# {{Marc}}
-
+# Marc
 ---
 
-> *{{tagline}}*
+## Who I am
+Student web designer and developer, passionate about art.
 
-— **CURRENTLY**
-{{currently_line}}
+## Technologies
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,nodejs,cs,dotnet,py,mongodb,postgres" />
 
-— **ELSEWHERE**
-[{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}}) · [in/{{linkedin}}](https://linkedin.com/in/{{linkedin}})
-
-— **WORK**
-1. **{{MoonQuill}}**
-2. **{{Ishtar Facility}}** 
-
----
-
-<sub>issue №01 · 2026 · written in this README</sub>
+## Projects
+- [**MoonQuill**](https://github.com/MarcTheWorldline/MoonQuill)
+- [**Ishtar Facility**](https://github.com/MarcTheWorldline/Ishtar-Facility)
